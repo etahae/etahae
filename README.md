@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @etahae
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning c++ to start working on unreal engine projects in the future or learn c# for unity :)
+- 💞️ I’m looking to collaborate on some indie game projects 
+- 📫 How to reach me tahanamir@hotmail.com
