@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @etahae
-- 👀 I’m interested in game dev
-- 🌱 I’m currently working on advanced c++ projects to increase my oop knowledge
-- 💞️ I’m looking to assist working on C or C++ projects
+- 👋 Hi, I’m @taha_namir
+- 🌱 I’m currently studying at 1337(42 school)
+- 💞️ I like assisting others on their projects
 - 📫 How to reach me tahanamir@hotmail.com
