@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @taha_namir
-- 🌱 I’m currently studying at 1337(42 school)
-- 💞️ I like assisting others on their projects
-- 📫 How to reach me tahanamir@hotmail.com
